@@ -4,7 +4,7 @@
 
 ## Overview
 
-The AI Summarizer Project is a tool designed to provide concise summaries of articles from various websites. It utilizes advanced natural language processing techniques to condense information and deliver key points. This project is developed to assist users in quickly grasping the main ideas of articles without having to read the entire content.
+The AI Summarizer Project is a tool designed to provide concise summaries of articles from various websites. This project is developed to assist users in quickly grasping the main ideas of articles without having to read the entire content.
 
 ## Features
 
