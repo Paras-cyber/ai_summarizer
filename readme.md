@@ -1,7 +1,6 @@
 # AI Summarizer Project
 
-[![AI Summarizer Screenshot](\src\assets\Screenshot.png)](https://smartbriefs.netlify.app/)
-
+![AI Summarizer Screenshot](https://github.com/Paras-cyber/ai_summarizer/assets/65559478/ae60a3be-a5da-4967-acbf-b674701210b8)
 
 ## Overview
 
