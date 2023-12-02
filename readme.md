@@ -1,6 +1,6 @@
 # AI Summarizer Project
 
-[![AI Summarizer Screenshot](src\assets\Screenshot.png)](https://smartbriefs.netlify.app/)
+[![AI Summarizer Screenshot](\src\assets\Screenshot.png)](https://smartbriefs.netlify.app/)
 
 
 ## Overview
