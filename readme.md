@@ -1,21 +1,33 @@
-# Build and Deploy Your Own ChatGPT AI SaaS Business with React
-![AI Summarizer](https://i.ibb.co/NK12JG2/Thumbnail-26.png)
+# AI Summarizer Project
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+[![AI Summarizer Screenshot](src\assets\Screenshot.png)](https://smartbriefs.netlify.app/)
 
-## Introduction
-If you're a solo developer in 2023, you have the power to build robust AI software startups! Watch this 1-hour video and make an Article Summarizer Application using OpenAI's GPT model.
- 
-Alongside building this application, you'll also learn how to:
-- setup a ReactJS project using Vite
-- create a responsive, beautiful UI/UX with a nice touch of glass morphism using Tailwind CSS
-- make advanced RTK query API requests that fire on condition
-- save history using the local storage
-- handle form events and catch errors
-- implement copy to clipboard
-- write clean code
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+## Overview
+
+The AI Summarizer Project is a tool designed to provide concise summaries of articles from various websites. It utilizes advanced natural language processing techniques to condense information and deliver key points. This project is developed to assist users in quickly grasping the main ideas of articles without having to read the entire content.
+
+## Features
+
+- **Article Summarization:** Extracts essential information from articles.
+- **Multi-Source Support:** Summarizes content from various websites.
+- **User-Friendly Interface:** Simple and intuitive for easy use.
+
+## Tech Used
+
+- **ReactJS:** JavaScript library for building interfaces.
+- **ViteJS:** Fast frontend build tool for modern web projects.
+- **Fetch API:** Used for chat gpt to summarize the text.
+
+## Getting Started
+
+Follow these steps to get started with the AI Summarizer:
+
+1. **Clone the Repository:**
+   git clone https://github.com/Paras-cyber/ai_summarizer.git
+   cd ai_summarizer
+
+2. **Install Dependencies:**
+   npm install
+   npm run dev
+   
